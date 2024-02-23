@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Website Developer
 ---------------------------
 
-Hi there! I'm Ali Saleh, a self-taught front-end web developer passionate about creating engaging and user-friendly web experiences. With a background in self-directed learning. Currently, I focus on building responsive and accessible websites, leveraging the latest web technologies to deliver high-quality solutions. I'm eager to tackle new challenges, collaborate with others, and contribute to open-source projects. Feel free to explore my GitHub repositories to see some of my projects and contributions. If you have any questions or collaboration opportunities, don't hesitate to reach out!
+Hi there! I'm Ali Saleh, a self-taught front-end web developer passionate about creating engaging and user-friendly web experiences. With a background in self-directed learning. Currently, I focus on building responsive and accessible websites, leveraging the latest web technologies to deliver high-quality solutions. I'm eager to tackle new challenges and collaborate with others. Feel free to explore my GitHub repositories to see some of my projects and contributions. If you have any questions or collaboration opportunities, don't hesitate to reach out!
 
 * 🌍  I'm based in Baghdad, Iraq
 * ✉️  You can contact me at [iqalisalehiq@gmail.com](mailto:iqalisalehiq@gmail.com)
 * 🧠  I'm learning Data structure, algorithm and Nodejs
 * 🤝  I'm open to collaborating on Projects
-* ⚡  Also enjoy Desiging websites from time to time
+* ⚡  Also enjoy Designing websites from time to time
 
 ### Skills
 
