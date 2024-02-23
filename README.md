@@ -8,7 +8,7 @@ Hi there! I'm Ali Saleh, a self-taught front-end web developer passionate about 
 
 * 🌍  I'm based in Baghdad, Iraq
 * ✉️  You can contact me at [iqalisalehiq@gmail.com](mailto:iqalisalehiq@gmail.com)
-* 🧠  I'm learning Data structure and algorithm
+* 🧠  I'm learning Data structure, algorithm and Nodejs
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Also enjoy Desiging websites from time to time
 
