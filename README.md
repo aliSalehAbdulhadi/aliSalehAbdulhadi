@@ -10,7 +10,7 @@ Hi there! I'm Ali Saleh, a self-taught front-end web developer passionate about 
 *   ✉️  You can contact me at [iqalisalehiq@gmail.com](mailto:iqalisalehiq@gmail.com)
 *   🧠  I'm learning Data structure and algorithm
 *   🤝  I'm open to collaborating on Projects
-*   ⚡  Also enjoy Desiging websites from time to time
+*   ⚡  Also enjoy Designing websites from time to time
 
 ### Skills 
 <p align="left">
